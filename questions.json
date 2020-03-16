@@ -1,0 +1,314 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "¿Qué es una patente?",
+		            "content" : [
+		                "Es el derecho que otorga el Estado a un inventor para la explotación comercial (producción, uso o venta) de su invención  de manera exclusiva, durante un tiempo determinado.",
+		                "Es el derecho que otorga el gobierno nacional como parte de sus políticas de desarrollo tecnológico a nivel nacional.",
+		                "Es una  constancia de que un producto o servicio producido, es propiedad de quien lo hizo o lo produjo.",
+		                "Un impuesto que las organizaciones deben pagar para publicar un producto o servicio."
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "¿Qué son los modelos de utilidad?",
+		            "content" : [
+		                "Son directrices que se usan como base para guiarse en el proceso de creación de un nuevo producto de software.",
+		                "Son figuras de la propiedad industrial que aplican a innovaciones mecánicas menores y que protegen objetos, utensilios, aparatos o herramientas.",
+		                "Son modelos de programación que se deben aplicar en el desarrollo  de un proyecto",
+		                "Son figuras de la propiedad industrial que aplican a investigaciones mecánicas de carácter científico  y que protegen objetos, utensilios, aparatos o herramientas."
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "A los “secretos industriales” también se les conoce como secretos de ________:",
+
+		            "content" : [
+		                "Importancia.",
+		                "Personas.",
+		                "Empresas.",
+		                "Negocios."
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Los derechos de obtentor son una forma de protección exclusiva para variedades:",
+		            "content" : [
+		                "Animales.",
+		                "Cereales.",
+		                "Vegetales.",
+		                "Materiales."
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Los requisitos para el otorgamiento de una patente son básicamente tres (Diario  Oficial de la Federación, 1994):",
+		            "content" : [
+		                "Novedad universal, Grado Inventivo y Aplicabilidad Industrial.",
+		                "Novedad industrial, Grado Intuitivo y Aplicabilidad Universal.",
+		                "Novedad financiera, Grado Investigativo y Aplicabilidad.",
+		                "Ninguna de las anteriores."
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "correct": 0,
+				    "content": [
+				        "La parte de los activos intelectuales de una institución que han recibido la protección legal.",
+				        "La parte de los pasivos intelectuales de una institución que han recibido la protección legal.",
+				        "El conjunto de elementos de propiedad intelectual de una institución debe considerarse como una colección de activos fundamentales que le añaden un valor significativo.",
+				        "Sullivan nunca definió la propiedad intelectual."
+				    ],
+				    "question": "Para Sullivan(2001) la Propiedad Intelectual se define como:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Contrato, Gobierno, Deber, Intelectuales.",
+				        "Registro, Director, Permiso,Tecnológicos.",
+				        "Contrato, Estado, Deber,Tecnológicos.",
+				        "Contrato, Estado, Derecho, Intelectuales."
+				    ],
+				    "question": "Complete los espacios en blanco con las palabras correspondientes a continuación El principio básico de la propiedad intelectual es la concertación de un ________ social, a través del cual el ________ concede a los autores de obras intelectuales un ________ exclusivo para la explotación temporal de sus obras a cambio de que éstas se den a conocer a la sociedad y sirvan de base para la generación de nuevos desarrollos _________."
+					
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "La de derechos de autor y la de propiedad intelectual.",
+				        "La de derechos de autor y la de propiedad industrial",
+				        "La de derechos de obtentor y la de propiedad intelectual",
+				        "La de secretos industriales y la de patentes."
+				    ],
+				    "question": "El régimen jurídico de la propiedad intelectual incluye dos grandes ramas¿Cuáles son?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Invenciones Investigativas y signos vitales.",
+				        "Invenciones científicas y signos patentados.",
+				        "Invenciones industriales y signos distintivos.",
+				        "Invenciones de circuitos integrados."
+				    ],
+				    "question": "¿Cuáles son la áreas de clasificación de la propiedad industrial?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Convenio de París(1883)",
+				        "Convenio de Ginebra(1949)",
+				        "Tratado de Versalles(1919)",
+				        "Tratado de París(1815)"
+				    ],
+				    "question": "El primer tratado internacional donde se establecieron diversos principios para la protección de los derechos de propiedad industrial fue el:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Métodos, planes y procedimientos diseñados para estructurar las propiedades estructurales de la empresa con su misión.",
+				        "Estrategias, metodologías y mecanismos hechos para alinear las características intelectuales de la empresa y sus metas de mercadotecnia.",
+				        "Conceptos, procedimientos y procesos diseñados específicamente para alinear las propiedades intelectuales de la empresa con sus estrategias y objetivos empresariales.",
+				        "Conceptos, métodos y procesos diseñados específicamente para alinear las propiedades intelectuales de la empresa con sus estrategias y objetivos empresariales."
+				    ],
+				    "question": "Según Sullivan “La gestión de la propiedad intelectual” es un conjunto fundamental de:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Privilegio del campesino y la excepción del sustractor.",
+				        "Excepción del fitomejorador y el privilegio del campesino.",
+				        "Privilegio del agricultor y la excepción del obtentor o fitomejorador.",
+				        "Privilegio del obtentor o fitomejorador  y la excepción del agricultor."
+				    ],
+				    "question": "El sistema de derechos de obtentor del acta de adhesión a la UPOV de 1978, ofrece dos excepciones importantes al derecho exclusivo de explotación:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Actualidad, Distinción, Homogeneidad, Causalidad y Denominación.",
+				        "Actualidad, Priorización, Heterogeneidad, Causalidad y Determinación.",
+				        "Novedad, Clasificación, Heterogeneidad, Estabilidad y Denominación.",
+				        "Novedad , Distinción, Homogeneidad, Estabilidad y Denominación."
+				    ],
+				    "question": "Una variedad vegetal resulta protegible sólo cuando existe físicamente y siempre que cumpla los cinco requisitos siguientes (Solleiro, 1996):"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Destacar la importancia actual de la propiedad intelectual; familiarizar con las principales figuras de esta área, y sugerir las formas más convenientes de proteger los resultados derivados de las actividades de I+D.",
+				        "Destacar la importancia actual de la propiedad industrial; familiarizar con las principales figuras de esta área, y sugerir las formas más convenientes de proteger los resultados.",
+				        "Destacar la relevancia de la antigua propiedad intelectual; familiarizar con las principales figuras de esta área, y sugerir las formas más convenientes de proteger los resultados.",
+				        "Destacar la importancia actual de la propiedad intelectual, entusiasmarse con las principales figuras de esta área, y sugerir las formas más convenientes de proteger los resultados derivados de las actividades de I+D."
+				    ],
+				    "question": "En el objetivo central de las negociaciones comerciales del GATT (hoy Organización Mundial del Comercio). es:"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "La socialización del conocimiento.",
+				        "La privatización del conocimiento.",
+				        "El sobrecosto de la información.",
+				        "La expansión de los datos."
+				    ],
+				    "question": "Fenómeno que ha acompañado la transformación tecnológica de la producción:"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "¿Cuáles son los nuevos campos que se han incluido en el entorno competitivo?",
+		            "content" : [
+		                "Química, matemáticas, mecánica,folklore.",
+		                "Literatura, conocimiento tradicional, ciencias políticas",
+		                "Biotecnología, productos Informáticos,expresiones de folklore y conocimiento tradicional.",
+		                "Biología, software, literatura, historia."
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "¿En qué año y lugar se realizó la primera ley de patentes?",
+		            "content" : [
+		                "Venecia 1474.",
+		                "Estados Unidos 1478.",
+		                "Francia 1474.",
+		                "China 1478."
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "¿Qué es la estrategia de propiedad intelectual?",
+		            "content" : [
+		                "Conjunto de normas y reglas que permiten que las empresas recibir dinero por sus productos.",
+		                "Conjunto de principios y políticas que implementa una organización para apropiarse de los beneficios económicos derivados de sus esfuerzos de investigación y desarrollo.",
+		                "Conjunto de normas y políticas que permiten que las empresas recibir dinero por sus productos.",
+		                "Conjunto de principios y diseños que implementa una organización para apropiarse de los beneficios económicos derivados de sus esfuerzos de investigación y desarrollo."
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Complete los dos títulos que faltan para completar los títulos existentes actualmente: ___________, modelos de utilidad, diseños industriales,__________________ , indicaciones geográficas, marcas, derechos de obtentor de nuevas variedades de plantas, secretos industriales.",
+		            "content" : [
+		                "Secretos biológicos, derechos de autor.",
+		                "Indicaciones patentables, marcas empresariales.",
+		                "Derechos de autor en obras literarias, secretos biológicos.",
+		                "Patentes, derechos de autor en obras literarias."
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Para que una invención pueda ser patentable tiene que darse a conocer y las personas especializadas en el tema lo apliquen y obtengan los mismos resultados, esto se conoce como:",
+		            "content" : [
+		                "Requisito de repetibilidad o de suficiencia de la descripción de invención.",
+		                "Requisito de fiabilidad o de suficiencia de la descriptiva de invención.",
+		                "Requisito de validez o de suficiencia de descripción del descubrimiento.",
+		                "Requisito de repetibilidad o de suficiencia de la descripción del descubrimiento."
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "correct": 1,
+				    "content": [
+				        "Patentamiento científico, estrategia selectiva, patentamiento de bloqueo y combinación de las anteriores.",
+				        "Patentamiento sistemático, estrategia selectiva, patentamiento de bloqueo y combinación de las anteriores.",
+				        "Patentamiento sistemático estrategia colaborativa, patentamiento de bloqueo y combinación de las anteriores.",
+				        "Patentamiento literario, estrategia colaborativa, planteamiento de bloqueo y combinación de las anteriores."
+				    ],
+				    "question": "Archibugi y Pianta (1996) definen cuatro estrategias de patentamiento las cuales son:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Obtener más ingresos para mejorar las máquinas de la organización con el fin de mejorar la producción.",
+				        "Ampliar los horizontes empresariales para permitir mayor alcance en las investigaciones a nivel internacional.",
+				        "Guardar en secreto todas las creaciones que se puedan realizar en un país.",
+				        "Extender la duración de las ventajas económicas de la innovación, como recompensa para el inventor, estimulando de esa manera las innovaciones."
+				    ],
+				    "question": "Según Schumpeter(1961) el objetivo de sistema de patentes consiste en:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Oficina estadounidense de patentes.",
+				        "Oficina alemana de patentes.",
+				        "Oficina latinoamericana de patentes.",
+				        "Banco mexicano de patentes."
+				    ],
+				    "question": "Cuál de los siguientes NO es un sitio web de patentes."
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Información,resumen,memoria descriptiva,figuras ilustrativas, reivindicaciones.",
+				        "Información, estado del arte, justificación, figuras, conclusiones.",
+				        "Introducción, resumen, descripción, figuras ilustrativas, reivindicaciones",
+				        "Información, resumen, desarrollo, memoria descriptiva, conclusiones."
+				    ],
+				    "question": "¿Cuáles son las partes de una patente?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Fomento de la inventiva.",
+				        "Estrategia de protección.",
+				        "Pagos por derechos de autor.",
+				        "Auditoría de propiedad intelectual."
+				    ],
+				    "question": "¿Cuál de estos elementos NO forma parte de la gestión de Propiedad Intelectual.?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Gestión de proyectos y planeación de proyectos.",
+				        "Selección de proyectos de investigación y gestión eficaz de los proyectos.",
+				        "Selección de proyectos de innovación y planeación efectiva de los proyectos.",
+				        "Gestión de proyectos de investigación y gestión remota de los proyectos."
+				    ],
+				    "question": "Los procesos administrativos que tiene mayor injerencia en la consolidación de la innovación tecnológica."
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Permite iniciar tareas de investigación y desarrollo a partir de patentes desarrolladas por otros, que aun encontrándose vigentes constituyen un excelente marco de referencia para innovar mejoras (también patentables).",
+				        "Permite negociar los derechos de cada una de las patentes que genere la empresa con otras para compartir el crédito.",
+				        "Ayuda a una organización entrar al mercado ya que la patente le da un aval para demostrar que el producto que oferta es de buena calidad.",
+				        "Ninguna de las anteriores."
+				    ],
+				    "question": "Uno de los tres factores básicos, que representa un estimable valor para los industriales en el uso de las patentes es:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Bases de datos, empresariales, patente.",
+				        "Organizaciones, tecnológicas, patente.",
+				        "Marcas, empresariales,licencia.",
+				        "Bases de datos, tecnológicas, licencia."
+				    ],
+				    "question": "Completa la siguiente frase: La búsqueda en las bases de datos de patentes es el medio para determinar las opciones tecnológicas disponibles y conocer al titular de los derechos de PI a quien la institución se tendrá que dirigir para concertar una licencia. "
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Mantenimiento de los títulos de Propiedad Intelectual.",
+				        "Auditoría de los títulos de Propiedad Intelectual.",
+				        "Administración de los títulos de Propiedad Intelectual.",
+				        "Gestión de los títulos de Propiedad Intelectual."
+				    ],
+				    "question": "Cuál es el proceso que hay que llevar a cabo para conocer exactamente cuál es la propiedad intelectual con la que cuenta una institución,  que permita tener información sobre el patrimonio tecnológico que posee:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Contactar a un espía que vaya por todas las organizaciones para observar si se está haciendo uso de los títulos de propiedad intelectual.",
+				        "La demanda sobre los posibles usos hechos por terceros de los títulos de propiedad intelectual hecho por la organización.",
+				        "La supervisión de la posible invasión de los títulos de propiedad intelectual que posee la empresa o centro de investigación.",
+				        "Todas las anteriores."
+				    ],
+				    "question": "El procedimiento para realizar la vigilancia del patrimonio tecnológico incluye:"
+				}
+		    ]
+		}
+	]
+}
